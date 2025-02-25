@@ -1,0 +1,19 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "learning basic about web scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "biruk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrukAbebe/web_scraping/issues"
+  },
+  "homepage": "https://github.com/BrukAbebe/web_scraping#readme",
+  "dependencies": {
+    "puppeteer-core": "^24.3.0"
+  },
+  "type": "commonjs"
+}
