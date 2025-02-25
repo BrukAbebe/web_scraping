@@ -13,6 +13,7 @@
   },
   "homepage": "https://github.com/BrukAbebe/web_scraping#readme",
   "dependencies": {
+    "node-cron": "^3.0.3",
     "puppeteer-core": "^24.3.0"
   },
   "type": "commonjs"
